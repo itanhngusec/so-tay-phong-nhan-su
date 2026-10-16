@@ -1,0 +1,14 @@
+{
+ "_comment": "Không chứa mật khẩu. Token chỉ nằm trong trình duyệt người quản trị.",
+ "mode": "github",
+ "github": {
+  "owner": "",
+  "repo": "",
+  "branch": "main",
+  "path": "content.json"
+ },
+ "cloud": {
+  "apiBase": ""
+ },
+ "author": ""
+}

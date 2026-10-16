@@ -1,0 +1,378 @@
+{
+ "v": 5,
+ "meta": {
+  "title": "Sổ tay quy trình & hướng dẫn Phòng Nhân sự",
+  "subtitle": "Quy trình tiếp nhận – hồ sơ – chế độ phúc lợi – nghỉ việc và biểu mẫu dành cho toàn thể nhân viên. Tìm nhanh theo từ khóa.",
+  "brand": "Sổ tay Phòng Nhân sự",
+  "org": "SEC – Phòng Hành chính Nhân sự",
+  "footer": "Sổ tay quy trình & hướng dẫn Phòng Nhân sự SEC. Cần bổ sung hoặc sửa nội dung? Liên hệ Phòng HCNS (Ms Phượng – 0973 852 094).",
+  "searchPlaceholder": "Tìm theo từ khóa: chấm công, hồ sơ, thử việc, BHXH, nghỉ việc…",
+  "quickChips": [
+   "Chấm công",
+   "Hồ sơ nhân viên",
+   "Thử việc",
+   "BHXH",
+   "Nghỉ việc",
+   "Phép năm"
+  ],
+  "commonDocsTitle": "Tài liệu & biểu mẫu chung",
+  "updatedAt": "2026-10-12T08:00:00.000Z",
+  "updatedBy": "Phòng HCNS",
+  "version": "1.0.0",
+  "heroTitle": "Sổ tay quy trình",
+  "heroTitleAccent": "Phòng Nhân sự",
+  "logo": "assets/logo.jpg"
+ },
+ "phases": [
+  {
+   "id": "tong-quan",
+   "name": "Tổng quan & Nội quy",
+   "bullets": [
+    "Cơ cấu tổ chức công ty và các khối/phòng ban",
+    "Nội quy lao động, thỏa ước lao động tập thể",
+    "Quy chế phạt vi phạm & quy định phạt đi muộn",
+    "Thông tin liên hệ Phòng Hành chính – Nhân sự"
+   ],
+   "outcome": "toàn bộ nhân viên nắm rõ cơ cấu tổ chức, nội quy và các chuẩn mực hành vi tại công ty"
+  },
+  {
+   "id": "onboarding",
+   "name": "Onboarding & Hồ sơ",
+   "bullets": [
+    "Quy trình tiếp nhận nhân viên mới full-time (5 giai đoạn)",
+    "Hồ sơ cần nộp theo từng đối tượng (full-time, giáo viên, part-time)",
+    "Theo dõi, đánh giá và kết thúc thử việc",
+    "Gia hạn thử việc & ký hợp đồng lao động"
+   ],
+   "outcome": "nhân viên mới hòa nhập nhanh, hồ sơ đầy đủ đúng hạn, không bị treo lương"
+  },
+  {
+   "id": "che-do",
+   "name": "Chế độ & Phúc lợi",
+   "bullets": [
+    "Chấm công & xác nhận công định kỳ",
+    "Chi trả lương qua ngân hàng ACB",
+    "Bảo hiểm xã hội / y tế / thất nghiệp",
+    "Thuế TNCN, giảm trừ gia cảnh & ủy quyền quyết toán",
+    "Phép năm, sinh nhật, ưu đãi học phí nội bộ"
+   ],
+   "outcome": "nhân viên nhận đủ quyền lợi, thực hiện đúng nghĩa vụ chấm công và hồ sơ thuế/bảo hiểm"
+  },
+  {
+   "id": "nghi-viec",
+   "name": "Nghỉ việc",
+   "bullets": [
+    "Quy tắc thời gian báo trước theo loại hợp đồng",
+    "Quy trình xét duyệt nghỉ việc 10 bước",
+    "Bàn giao công việc, tài sản & hồ sơ bảo hiểm",
+    "Form báo giảm nhân sự dành cho Leader/Quản lý"
+   ],
+   "outcome": "thủ tục nghỉ việc hoàn tất đúng pháp luật, không phát sinh truy thu BHXH/BHYT"
+  },
+  {
+   "id": "tuyen-dung",
+   "name": "Tuyển dụng & CCTC",
+   "bullets": [
+    "Order tuyển dụng từ các phòng ban",
+    "JD & số lượng các vị trí tuyển dụng 2026",
+    "Cơ chế thưởng giới thiệu nhân viên full-time",
+    "Sơ đồ cơ cấu tổ chức tổng quan & chi tiết"
+   ],
+   "outcome": "các phòng ban tuyển đúng quy trình, nhân viên nắm rõ cơ chế giới thiệu ứng viên"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s01-noi-quy-lao-dong-quy-che-phat",
+   "phase": "tong-quan",
+   "title": "Nội quy lao động & quy chế phạt",
+   "body": "## Nội quy lao động\n- Áp dụng cho **toàn bộ nhân viên công ty**\n- Quy định các nguyên tắc, chuẩn mực hành vi và kỷ luật lao động nhằm đảm bảo môi trường làm việc chuyên nghiệp, công bằng và hiệu quả\n- Giúp nhân viên hiểu rõ quyền lợi, nghĩa vụ và các hành vi vi phạm cần tránh trong quá trình làm việc\n- **Bản mới nhất:** Nội quy lao động cập nhật 11.09.2026 (bản V02 ngày 01.01.2026 là bản trước đó)\n## Quy chế phạt\n- Quy chế phạt dựa trên các trường hợp vi phạm: QĐSEC-HC03-2026 ban hành 15.01.2026\n## Thỏa ước lao động tập thể\n- Văn bản thỏa thuận giữa người lao động và công ty về điều kiện làm việc, quyền lợi chung",
+   "links": [
+    {
+     "name": "Nội quy lao động (cập nhật 11.09.2026) — mới nhất",
+     "url": "https://drive.google.com/file/d/1OHMysWEOLJ3d936UltsgcusLljoznrwl/view?usp=drive_link"
+    },
+    {
+     "name": "Nội quy công ty V02 (01.01.2026) — bản trước",
+     "url": "https://drive.google.com/file/d/1DoB1hikJkD1zTmsMcQQFy7SMhnSr53tB/view?usp=drive_link"
+    },
+    {
+     "name": "Quy chế phạt QĐSEC-HC03-2026 (15.01.2026)",
+     "url": "https://drive.google.com/file/d/1_tnZ8xPrrLFUPlFLb3lcPP1dxQ1QqwIe/view?usp=drive_link"
+    },
+    {
+     "name": "Thỏa ước lao động tập thể",
+     "url": "https://drive.google.com/file/d/1bG7BEZK_C3OYYfoq4ZNHzArstrXJGqZs/view?usp=drive_link"
+    }
+   ]
+  },
+  {
+   "id": "s02-quy-dinh-phat-di-muon",
+   "phase": "tong-quan",
+   "title": "Quy định phạt đi muộn (áp dụng từ 01/12/2025)",
+   "body": "## Quy định hiện hành (từ 01/12/2025)\n1. Trong tháng, **hai (02) lần đi muộn đầu tiên** được xem xét là phép muộn nếu người lao động:\n- Thông báo và xin phép quản lý trực tiếp\n- Được quản lý xét duyệt lý do\n- Điền đầy đủ biểu mẫu theo quy định\n2. Kể từ **lần đi muộn thứ ba (03)** trở đi trong tháng: xử lý theo quy định phạt tương ứng với số lần vi phạm, **không áp dụng phép muộn**\n3. Nhân sự có thể **kiểm tra camera ngẫu nhiên lúc 8h30** tại các vị trí làm việc: yêu cầu nhân viên có mặt và ngồi đúng vị trí; trường hợp chạy lên chấm công rồi xuống cất xe nếu bị phát hiện sẽ bị xử phạt\n4. **Không ăn sáng trong giờ làm việc** (từ 8h30 trở đi); vi phạm xử phạt như lỗi đi muộn\n## Mức phạt tham khảo (áp dụng từ 27/04/2024)\n- Đi muộn lần 1 trong tháng: phạt 20.000đ\n- Lần thứ 2: phạt x2 = 40.000đ\n- Lần thứ 3: phạt x3 = 60.000đ\n- Lần thứ n: phạt 20.000đ × n\n> Lưu ý: mỗi tháng nhân viên được xin phép đi muộn tối đa 2 lần, chỉ áp dụng cho trường hợp đặc biệt (hỏng xe, việc gia đình, việc cá nhân gấp) và phải gọi điện/nhắn tin xin phép quản lý. Không xin phép = tính đi muộn.",
+   "links": []
+  },
+  {
+   "id": "s03-so-do-co-cau-to-chuc",
+   "phase": "tong-quan",
+   "title": "Sơ đồ cơ cấu tổ chức công ty",
+   "body": "## Ban lãnh đạo\n- **Giám đốc:** Mr. Đạt · **Phó Giám đốc:** Mr. Hưng\n## Khối Đào tạo — GĐ Mr. Hưng\n- Team Nền (Ms. Ngọc Linh) · Team TOEIC LR (Ms. Liên) · Team SW (Ms. Oanh) · Team VSTEP (Ms. Hạnh)\n- Team Giao tiếp (Ms. Hoài Linh) · Team IELTS 1 (Mr. An) · Team IELTS 2 (Ms. Trang) · Team SC2N/SC3N\n- Team đào tạo & kiểm soát chất lượng giảng dạy\n## Khối Kinh doanh — GĐ Ms. Thu\n- Phòng Tư vấn tuyển sinh 1 (TP Ms. Thu, trợ lý điều hành Ms. Ly)\n- Phòng Tư vấn tuyển sinh 2 (Mr. Việt Trung) · TVTS 3 (Ms. Lan Anh) · TVTS 4\n- Phòng Phát triển kinh doanh (PTKD 1–4)\n## Khối Back Office\n- Phòng Marketing, Truyền thông & Công nghệ — TP Mr. Thái\n- Phòng Vận hành — TP Ms. Thơm\n- **Phòng Nhân sự (HR) — TP Ms. Thơm**\n- Phòng Tài chính – Kế toán — Kế toán trưởng Ms. Ngọc Dung\n> Xem sơ đồ đầy đủ, cập nhật nhân sự từng team trong file \"SEC - Cơ cấu tổ chức\".",
+   "links": [
+    {
+     "name": "SEC – Cơ cấu tổ chức (sơ đồ đầy đủ)",
+     "url": "https://docs.google.com/spreadsheets/d/15skcIB-09inK5MDaXGS2gynR1bbOsx0Xhj4dP9lQP7o/edit?gid=1679933324"
+    }
+   ]
+  },
+  {
+   "id": "s04-lien-he-phong-nhan-su",
+   "phase": "tong-quan",
+   "title": "Liên hệ Phòng Hành chính – Nhân sự",
+   "body": "## Đầu mối chính\n- **Ms Phượng** (Nhân sự – C&B): 0973 852 094\n- **Ms Thơm** (Trưởng phòng Hành chính – Nhân sự): 0988 136 992\n- **Thời hạn phản hồi thắc mắc:** muộn nhất 02 ngày kể từ khi nhận thông báo\n## Đội ngũ Hành chính – Nhân sự\n- Ms. Nhữ Thúy Hiền (HC CSKH): 0989 528 482\n- Ms. Đặng Khánh Huyền (HC Kế toán): 0359 770 809\n- Ms. Dương Thanh Hoài (HC CSKH): 0343 502 366\n- Ms. Phùng Thị Hà Trang (HC): 0829 616 263\n- Ms. Phạm Ngọc Minh Khuê (HC TGHT): 0947 592 004\n- Ms. Lương Khánh Uyên (HC CSKH): 0383 511 419\n- Ms. Tạ Hải Linh (HC Kế toán): 0372 801 023\n- Ms. Nguyễn Thị Thúy Nga (HC CSKH): 0326 661 151\n- Mr. Trần Viết Thắng (HC): 0399 614 651\n## Khối Kinh doanh\n- Ms. Đào Khánh Thu (GĐ Kinh doanh): 0986 780 159",
+   "links": []
+  },
+  {
+   "id": "s05-quy-trinh-tiep-nhan-nhan-vien-moi",
+   "phase": "onboarding",
+   "title": "Quy trình tiếp nhận nhân viên mới full-time (Onboarding)",
+   "body": "## Giai đoạn 1 — Preboarding (trước ngày nhận việc)\n1. Gửi thư nhận việc / xác nhận nhận việc — HR — trước nhận việc 1–3 ngày (Offer Letter)\n2. Soạn hợp đồng thử việc 02 tháng — HCNS — trước 01 ngày nhận việc\n3. Chuẩn bị chỗ ngồi, thiết bị — HCNS + Quản lý — trước 01 ngày nhận việc\n4. Yêu cầu bổ sung hồ sơ cá nhân — HR — trước 01 ngày nhận việc (checklist hồ sơ)\n## Giai đoạn 2 — Onboarding Day 1\n1. Đón tiếp nhân viên mới — HCNS\n2. Ký HĐ thử việc + cam kết bảo mật thông tin — HCNS\n3. Giới thiệu nội quy công ty — HCNS\n4. Hướng dẫn chấm công, lấy vân tay — HCNS\n5. Hướng dẫn quy trình OKRs/3K — Quản lý\n6. Bàn giao tài sản, công cụ làm việc — Quản lý\n7. Giới thiệu các phòng ban — Quản lý\n## Giai đoạn 3 — Đào tạo & hội nhập\n- Văn hóa công ty, quy trình làm việc, quy trình báo cáo, OKRs/3K — Quản lý — trong tuần 1\n- Nội quy lao động — HCNS — trong tuần 1\n- Ký cam kết tuân thủ quy định công ty — HCNS — 10 ngày sau thử việc\n- Phát áo đồng phục — HCNS — 1 tháng sau thử việc\n- Đào tạo chuyên môn thực tế — Team Lead/Quản lý — tuần 1–2; kèm cặp xuyên suốt thử việc; đánh giá tiến độ hàng tuần\n## Giai đoạn 4 — Theo dõi thử việc\n- Tuần 2: đánh giá hòa nhập · Tháng 1: đánh giá năng lực · Trước hết thử việc 2 tuần: đánh giá tổng thể\n- Yêu cầu: không vi phạm kỷ luật nghiêm trọng\n## Giai đoạn 5 — Đánh giá kết thúc thử việc (timeline chuẩn)\n- Trước hết thử việc 14 ngày: HCNS gửi thông báo đánh giá\n- Trước 7 ngày: Quản lý gửi kết quả đánh giá\n- Trước 3 ngày: HCNS trình duyệt kết quả\n- Trước 1 ngày: hoàn tất quyết định\n> Ví dụ: ngày hết thử việc 18/11 → nhân sự thông báo leadteam ngày 4/11 → leadteam gửi lại bản đánh giá ngày 11/11 để soạn HĐLĐ. Quản lý không nộp đánh giá đúng hạn sẽ **phạt 200.000đ/lần** và có thể xem xét không giao nhân sự mới.",
+   "links": [
+    {
+     "name": "Bảng đánh giá nhân viên sau thời gian thử việc (mẫu)",
+     "url": "https://drive.google.com/file/d/1Zc3wt6Nb6yq9F9eaxgyHj9-UyM8Z4cFC/view?usp=drive_link"
+    },
+    {
+     "name": "Mẫu biên bản bàn giao hồ sơ nhận việc",
+     "url": "https://docs.google.com/document/d/1zCx471V-QG48CjnWTLWL2ES09On5_Wnw/edit?usp=drive_link"
+    },
+    {
+     "name": "Form đăng ký làm vé xe (nhân viên văn phòng)",
+     "url": "https://docs.google.com/forms/d/1ZMulZsOUD9ElbsGYFJQZmVWJD-n2rQp7v9C_p24ixDo/preview"
+    }
+   ]
+  },
+  {
+   "id": "s06-timeline-onboarding-theo-moc",
+   "phase": "onboarding",
+   "title": "Timeline onboarding theo mốc thời gian",
+   "body": "- **Buổi đầu (ngày đầu nhận việc):** ký HĐ thử việc & hồ sơ tiếp nhận; phổ biến nội quy, quy chế; tiếp nhận hồ sơ lao động; lấy vân tay chấm công — HCNS\n- **Sau 01 tuần:** làm vé xe/thẻ xe; cấp phát tài liệu \"Bộ công cụ làm việc hiệu quả\"; theo dõi hòa nhập ban đầu — HCNS + Leader\n- **Sau 10 ngày:** ký cam kết đã đọc & tuân thủ nội quy, quy chế; thông báo cập nhật tài khoản ACB để thanh toán lương — HCNS\n- **Sau 01 tháng thử việc:** cấp phát đồng phục — HCNS; đánh giá hiệu quả tháng đầu & mức độ phù hợp — Leader\n- **Trước khi kết thúc thử việc (tháng thứ 2):** review kết quả thử việc; đề xuất tiếp nhận chính thức / gia hạn / kết thúc — Leader + HCNS",
+   "links": []
+  },
+  {
+   "id": "s07-ho-so-nhan-vien-can-nop",
+   "phase": "onboarding",
+   "title": "Hồ sơ nhân viên cần nộp (theo đối tượng)",
+   "body": "> **DEADLINE:** nộp trong ngày đi nhận việc và hoàn thiện muộn nhất trong 01 tháng kể từ ngày nhận việc. Không nộp sẽ **treo lương tháng đó**.\n## Nhân viên full-time\n1. Sổ hộ khẩu (bản sao công chứng) hoặc chụp VNeID in ra\n2. CCCD (bản sao công chứng không quá 6 tháng)\n3. Sơ yếu lý lịch (bản chứng thực không quá 6 tháng)\n4. Giấy khám sức khỏe (còn hiệu lực ≤ 6 tháng)\n5. Bằng tốt nghiệp ĐH (bản sao công chứng ≤ 6 tháng); chưa có bằng: nộp giấy CN tốt nghiệp tạm thời hoặc bảng điểm (công chứng ≤ 6 tháng)\n6. Sổ BHXH bản sao (nếu đã từng tham gia)\n7. Ảnh hồ sơ (3x4 hoặc 4x6)\n## Giáo viên\n- Gồm đầy đủ như nhân viên full-time, **thêm:** bản photo công chứng chứng chỉ chuyên môn và mang bản gốc đến đối chiếu\n## Nhân viên part-time\n1. CCCD (bản photo)\n2. Thẻ sinh viên (bản photo)\n3. Sơ yếu lý lịch (bản sao công chứng không quá 6 tháng)\n## Xử lý hồ sơ thiếu\n- Quá hạn lần 1: nhắc nhở · Quá hạn lần 2: nhắc nhở · Quá hạn lần 3: **hold thanh toán lương tháng đó**",
+   "links": []
+  },
+  {
+   "id": "s08-gia-han-thu-viec-ky-hdld",
+   "phase": "onboarding",
+   "title": "Kết quả thử việc, gia hạn & ký HĐLĐ",
+   "body": "## Nếu ĐẠT thử việc\n- HCNS soạn HĐLĐ và gửi leadteam sau 2 ngày kể từ khi nhận kết quả đánh giá\n- Ký HĐLĐ chính thức 01 năm → làm thủ tục đóng BHXH → cập nhật hồ sơ chính thức\n## Nếu KHÔNG ĐẠT nhưng mong muốn tiếp tục\n- Ký gia hạn hợp đồng thử việc thêm 02 tháng\n- Sau gia hạn mà đạt → ký hợp đồng mới (nên tính từ đầu tháng, tránh ảnh hưởng bảo hiểm)\n- Đạt trước thời gian gia hạn → thanh lý HĐ gia hạn → ký HĐ mới (nên tính từ đầu tháng)\n- Sau gia hạn vẫn không đạt → dừng hợp đồng, làm thủ tục thôi việc, bàn giao công việc & trang thiết bị\n## Chuỗi hợp đồng dài hạn\n- Ký HĐLĐ chính thức 1 năm → đánh giá quá trình làm việc → ký HĐLĐ 1 năm tiếp → ký HĐLĐ **không xác định thời hạn**\n## Quy trình gia hạn HĐLĐ (định kỳ)\n1. HR rà soát hợp đồng sắp hết hạn trước 30 ngày, lập danh sách\n2. Gửi phiếu đánh giá cho Leader, hạn phản hồi 5–7 ngày\n3. Leader đánh giá & đề xuất: Đạt → gia hạn 12 tháng · Chưa đạt → đào tạo/thử việc lại · Không đạt → không gia hạn",
+   "links": []
+  },
+  {
+   "id": "s09-cham-cong-xac-nhan-cong",
+   "phase": "che-do",
+   "title": "Chấm công & xác nhận công",
+   "body": "## Chấm công\n- Nhân viên thực hiện chấm công **đúng – đủ – đúng thời gian**\n- Tuân thủ quy định chấm công của công ty\n- Bảng chấm công phân theo khối: Khối Back Office & Truyền thông / Khối Kinh doanh\n## Xác nhận công (định kỳ)\n1. Kiểm tra bảng công\n2. Thực hiện xác nhận công theo form\n3. Sau khi xác nhận, **không khiếu nại lại công đã chốt** (trừ trường hợp đặc biệt có xác nhận của HCNS)",
+   "links": [
+    {
+     "name": "Bảng chấm công 2026 (khối BO & Truyền thông)",
+     "url": "https://docs.google.com/spreadsheets/d/1ycBTd59fXq3n1x9-H5Uq1siCgsVBgK09R3zJpAp4f8g/edit?gid=1004727138"
+    },
+    {
+     "name": "Bảng chấm công 2026 — Khối Kinh doanh",
+     "url": "https://docs.google.com/spreadsheets/d/1errj-ClUN4IWKQ_bxkk8gfxd91zL9M1pLchrUPBhtxI/edit?gid=699815849"
+    },
+    {
+     "name": "Form xác nhận công (nhân viên văn phòng)",
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLSeiTvqaxedHDgrey65pGlCvgXFumY3xYJW8nwJ3o0MVGS6hNg/viewform"
+    },
+    {
+     "name": "Form xác nhận thủ tục hành chính — câu trả lời",
+     "url": "https://docs.google.com/spreadsheets/d/11zH-p7Tp722m-SXo7ZJ9tUZoeMHawHAc_v3UxwDSFo4/edit?resourcekey=&gid=910623363"
+    }
+   ]
+  },
+  {
+   "id": "s10-chi-tra-luong-qua-acb",
+   "phase": "che-do",
+   "title": "Chi trả lương qua ngân hàng ACB",
+   "body": "- Công ty chi trả lương qua **tài khoản ACB** vào **ngày mùng 10 tháng sau**\n- Chưa có tài khoản ACB: chủ động đến ngân hàng mở tài khoản và báo lại Phòng HCNS **trước ngày 30 của tháng**\n- Đã có tài khoản ACB: cung cấp số tài khoản cho Phòng HCNS để cập nhật",
+   "links": []
+  },
+  {
+   "id": "s11-bao-hiem-xa-hoi-quyen-loi",
+   "phase": "che-do",
+   "title": "Bảo hiểm xã hội & quyền lợi khi tham gia",
+   "body": "## Thời điểm tham gia\n- **Nhân viên full-time:** sau khi ký Hợp đồng chính thức 01 năm và hoàn tất đầy đủ hồ sơ\n- **Giáo viên:** sau khi nhận lớp và hoàn tất đầy đủ hồ sơ\n## Nguyên tắc xác định tháng đóng BHXH\n- Ký HĐ chính thức / nhận lớp **trước ngày 15** tháng A → đóng bảo hiểm **trong tháng A**\n- Ký HĐ chính thức / nhận lớp **sau ngày 15** tháng A → đóng bảo hiểm từ **tháng A+1**\n## Quyền lợi khi tham gia bảo hiểm\n- **Ốm đau:** hỗ trợ trợ cấp khi nghỉ điều trị\n- **Thai sản:** hưởng chế độ khi sinh con (cả lao động nam & nữ)\n- **Tai nạn lao động:** chi trả chi phí và trợ cấp theo quy định\n- **Hưu trí:** hưởng lương hưu khi đủ điều kiện\n- **Tử tuất:** gia đình được hưởng trợ cấp\n- **BHYT:** khám chữa bệnh có bảo hiểm chi trả\n- **BHTN:** trợ cấp thất nghiệp khi chấm dứt HĐLĐ đúng quy định\n- **Cộng dồn thời gian:** thời gian đóng BHXH được bảo lưu khi chuyển công ty\n> BHXH là quyền lợi lâu dài, giúp đảm bảo thu nhập và an sinh cho người lao động.",
+   "links": []
+  },
+  {
+   "id": "s12-thue-tncn-giam-tru-gia-canh",
+   "phase": "che-do",
+   "title": "Thuế TNCN: giảm trừ gia cảnh & ủy quyền quyết toán",
+   "body": "## Giảm trừ gia cảnh\n- Áp dụng cho nhân viên phát sinh thu nhập chịu thuế TNCN và đủ điều kiện giảm trừ gia cảnh\n- Chuẩn bị hồ sơ theo hướng dẫn của Phòng HCNS (xem thư mục hướng dẫn bên dưới)\n## Ủy quyền quyết toán thuế (Mẫu 08)\n- Áp dụng cho nhân viên đã làm **trọn vẹn 12 tháng** tại Công ty CP đầu tư và giáo dục quốc tế SEC và **không phát sinh thu nhập** tại đơn vị nào khác\n- Sinh viên mới ra trường chưa đi làm ở đâu cũng có thể ủy quyền",
+   "links": [
+    {
+     "name": "Hướng dẫn hồ sơ giảm trừ gia cảnh",
+     "url": "https://drive.google.com/drive/folders/1OFL1JXd5C1DDAXHGr7qwuB8gzsp93OFC?usp=drive_link"
+    },
+    {
+     "name": "Mẫu 08 — Ủy quyền quyết toán thuế",
+     "url": "https://drive.google.com/file/d/19jwQ7a5aUEPIsJOs5DRWSU_C9mpdyQTe/view?usp=drive_link"
+    }
+   ]
+  },
+  {
+   "id": "s13-quyet-dinh-thong-bao-noi-bo",
+   "phase": "che-do",
+   "title": "Quyết định & thông báo nội bộ",
+   "body": "## Phúc lợi nội bộ\n- **Ưu đãi học phí** cho nhân viên và người thân (toàn bộ nhân viên) — kèm form đăng ký học nội bộ\n- **Quyết định về sử dụng phép năm** (toàn bộ nhân viên)\n- **Quyết định chi sinh nhật nội bộ** (toàn bộ nhân viên)\n## Quản lý hiệu suất\n- Quyết định kiểm soát hiệu suất Cố vấn (áp dụng cho bộ phận cố vấn học tập)",
+   "links": [
+    {
+     "name": "QĐ ưu đãi học phí nhân viên & người thân (01.08.2025)",
+     "url": "https://drive.google.com/file/d/1Q85lyZhOr1GM4W5LMKJDzEYDLukhjVcf/view?usp=drive_link"
+    },
+    {
+     "name": "Form đăng ký học tiếng Anh nội bộ",
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLSf5exKA56OfvTbyHXB05hUSN0wRoJWRP7AQsHiaVA7y6Rcpsg/viewform"
+    },
+    {
+     "name": "QĐ về sử dụng phép năm (01.01.2026)",
+     "url": "https://drive.google.com/file/d/1C_KBDj7i-GXwWiBuR70zDCYXypxYjjyY/view"
+    },
+    {
+     "name": "QĐ chi sinh nhật nội bộ (01.05.2025)",
+     "url": "https://drive.google.com/file/d/1WcZqoncxCvFhnsJCEIoYlcB5I2sDlec2/view?usp=drive_link"
+    },
+    {
+     "name": "QĐ kiểm soát hiệu suất Cố vấn (01.11.2025)",
+     "url": "https://drive.google.com/file/d/1Vyjm2L_waNSxLDbkk7empJcBBoRJyGG7/view?usp=drive_link"
+    }
+   ]
+  },
+  {
+   "id": "s14-quy-trinh-nghi-viec-10-buoc",
+   "phase": "nghi-viec",
+   "title": "Quy trình xét duyệt nghỉ việc & xử lý hồ sơ (10 bước)",
+   "body": "1. **Viết và nộp đơn xin nghỉ việc** — người lao động lập đơn đúng mẫu, ghi rõ lý do, thời gian dự kiến nghỉ, cam kết bàn giao đầy đủ\n2. **Tiếp nhận & duyệt đơn (cấp quản lý)** — Leader/Quản lý trực tiếp trao đổi, xác nhận đồng ý hoặc không — trong vòng 5 ngày kể từ khi nhận thông báo\n3. **Nộp hồ sơ cho Phòng Nhân sự** — ngay sau khi được duyệt\n4. **Phòng Nhân sự xem xét & duyệt đơn** — kiểm tra tính hợp lệ, thời gian báo trước, nghĩa vụ hợp đồng — 01–03 ngày làm việc\n5. **Bàn giao công việc** — bàn giao toàn bộ công việc, hồ sơ, dữ liệu, tài liệu chuyên môn cho người được phân công — trước ngày nghỉ việc\n6. **Bàn giao tài sản** — thiết bị, tài liệu, thẻ, công cụ, vé xe… — trước ngày nghỉ việc\n7. **Thanh lý hợp đồng lao động** — Phòng Nhân sự thực hiện sau khi hoàn tất bàn giao\n8. **Bàn giao hồ sơ bảo hiểm** — sổ BHXH, tờ rời BHXH (nếu có)\n9. **Ký Quyết định chấm dứt HĐLĐ** — hai bên ký vào ngày chấm dứt hợp đồng\n10. **Leader điền form báo giảm nhân sự** — thông báo cho Phòng Hành chính trước tối thiểu 30 ngày",
+   "links": [
+    {
+     "name": "Đơn xin nghỉ việc (mẫu .docx)",
+     "url": "https://docs.google.com/document/d/1897Sb7jeGiSkPV11fC9n0xhSFdb8hLcU/edit?usp=drive_link"
+    },
+    {
+     "name": "Đơn xin nghỉ việc (bản PDF)",
+     "url": "https://drive.google.com/file/d/1QjtEy0uU8-uKAHMnRM5WQzESfqXyU1DU/view?usp=drive_link"
+    },
+    {
+     "name": "Biên bản mượn và giao trả tài sản",
+     "url": "https://docs.google.com/document/d/1Cy-hqsFQskVqcD3TuCChrk6L8QezfPvm/edit?usp=drive_link"
+    },
+    {
+     "name": "Mẫu chấm dứt hợp đồng lao động",
+     "url": "https://docs.google.com/document/d/14llFI3GDsD-kGb0IbjU3JMawxfou3dxE/edit?usp=drive_link"
+    },
+    {
+     "name": "Form báo giảm nhân sự (dành cho Leader)",
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLSe2-C2dzAd0biiMsmkHl6fJWMxkf5hEPiztOPI5LS3yC0A1wg/viewform"
+    }
+   ]
+  },
+  {
+   "id": "s15-quy-tac-thoi-gian-bao-truoc",
+   "phase": "nghi-viec",
+   "title": "Quy tắc thời gian báo trước khi nghỉ việc",
+   "body": "- **Đang trong thời gian thử việc:** báo trước **03 ngày** làm việc\n- **HĐLĐ xác định thời hạn:** báo trước **30 ngày**\n- **HĐLĐ không xác định thời hạn:** báo trước **45 ngày**\n- Người lao động có trách nhiệm tuân thủ thời gian báo trước theo loại hợp đồng đã ký\n> Với Leader/Quản lý: khi có nhân sự nghỉ việc (tự nguyện) hoặc bị cho thôi việc, phải điền form báo giảm nhân sự cho Phòng Hành chính **trước tối thiểu 30 ngày**. Báo chậm dẫn đến truy thu BHYT/BHXH thì Leader/Quản lý trực tiếp chịu trách nhiệm chi phí phát sinh.",
+   "links": []
+  },
+  {
+   "id": "s16-tuyen-dung-order-jd",
+   "phase": "tuyen-dung",
+   "title": "Order tuyển dụng & JD các vị trí 2026",
+   "body": "- Quản lý các phòng ban điền **form order tuyển dụng** gửi Phòng Nhân sự khi có nhu cầu nhân sự\n- JD chi tiết và số lượng tuyển dụng các vị trí năm 2026: xem file tổng hợp\n- Cơ chế **thưởng giới thiệu nhân viên full-time** áp dụng cho toàn bộ nhân viên công ty",
+   "links": [
+    {
+     "name": "Form tiếp nhận order tuyển dụng",
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLSd6-IMBBrbXlTGpI1ppRqhzFxZCMOJFSjORfJLfLDqPMZVQug/viewform"
+    },
+    {
+     "name": "2026 JD tuyển dụng các vị trí tại ANH NGỮ SEC",
+     "url": "https://docs.google.com/spreadsheets/d/1qF37AfNkgI8kRllCB4G4QkdT4e0btct-e6e2whxNiB0/edit?gid=0"
+    },
+    {
+     "name": "QĐ cơ chế giới thiệu nhân viên full-time (01.01.2026)",
+     "url": "https://drive.google.com/file/d/1v-5SVykzm5nfULNgnqDNCSMlkUTx3vyI/view"
+    }
+   ]
+  },
+  {
+   "id": "s17-so-do-cctc-tong-quan-chi-tiet",
+   "phase": "tuyen-dung",
+   "title": "Sơ đồ CCTC tổng quan & chi tiết",
+   "body": "## Tổng quan 3 khối\n- **Ban lãnh đạo** → Khối Đào tạo · Khối Kinh doanh · Khối Back Office\n- Khối Đào tạo: Team Nền, TOEIC LR, TOEIC SW, VSTEP, Giao tiếp, IELTS, SC2N/SC3N, Team đào tạo & kiểm soát chất lượng giảng dạy\n- Khối Kinh doanh: Phòng TVTS 1–4 (các team Green), Phòng Phát triển kinh doanh (PTKD 1–4)\n- Khối Back Office: Marketing & Design; Truyền thông & Công nghệ; Vận hành trước/sau khóa học; Quản lý chất lượng & R&D; Hành chính & C&B; Tuyển dụng; Kế toán tổng hợp\n## Ghi chú nhân sự\n- Green 5 chia thành 4 nhóm: Tân, Thảo, Nhi, Huynh\n- Team đào tạo & kiểm soát chất lượng tư vấn: Minh Anh, Thu Hằng\n- Team vận hành và đo lường hiệu suất: Thanh Hằng, Mai Quỳnh\n> Danh sách nhân sự chi tiết từng team/cơ sở (Trường Chinh, Cầu Giấy, Hà Đông) xem trong file cơ cấu tổ chức đầy đủ.",
+   "links": [
+    {
+     "name": "SEC – Cơ cấu tổ chức (sơ đồ đầy đủ)",
+     "url": "https://docs.google.com/spreadsheets/d/15skcIB-09inK5MDaXGS2gynR1bbOsx0Xhj4dP9lQP7o/edit?gid=1679933324"
+    }
+   ]
+  }
+ ],
+ "templates": [
+  {
+   "id": "m01-thong-bao-bao-giam-nhan-su",
+   "phase": "nghi-viec",
+   "section": "s14-quy-trinh-nghi-viec-10-buoc",
+   "course": "Quản lý / Leader",
+   "title": "Thông báo về việc báo giảm nhân sự",
+   "text": "📢 THÔNG BÁO VỀ VIỆC BÁO GIẢM NHÂN SỰ\nKhi có nhân viên thuộc team nghỉ việc (tự nguyện) hoặc bị cho thôi việc, Anh/Chị Leader/Quản lý vui lòng điền đầy đủ thông tin vào form và thông báo cho Phòng Hành chính trước tối thiểu 30 ngày kể từ ngày nhân sự dự kiến nghỉ việc, nhằm kịp thời xử lý các thủ tục liên quan đến hồ sơ nhân sự, giấy tờ và báo giảm BHXH/BHYT.\n👉 THÔNG BÁO NHÂN VIÊN DỰ KIẾN NGHỈ VIỆC: https://docs.google.com/forms/d/e/1FAIpQLSe2-C2dzAd0biiMsmkHl6fJWMxkf5hEPiztOPI5LS3yC0A1wg/viewform\n⚠ Lưu ý: Trường hợp báo chậm hoặc không báo đúng thời hạn, dẫn đến phát sinh tiền truy thu BHYT/BHXH, Leader/Quản lý trực tiếp sẽ chịu trách nhiệm đối với khoản chi phí phát sinh theo quy định Công ty.\nĐề nghị Anh/Chị Leader nghiêm túc phối hợp thực hiện.\nTrân trọng!"
+  },
+  {
+   "id": "m02-thong-bao-nhan-su-moi-acb-bhxh",
+   "phase": "onboarding",
+   "section": "s07-ho-so-nhan-vien-can-nop",
+   "course": "Nhân viên mới",
+   "title": "Thông báo nhân sự mới (ACB, BHXH, giảm trừ gia cảnh)",
+   "text": "THÔNG BÁO\nGửi Nhân sự mới và Toàn thể Nhân viên\nKính gửi: Toàn thể Anh/Chị nhân viên,\nPhòng Hành chính – Nhân sự xin thông báo và lưu ý một số nội dung quan trọng như sau:\n1. Về tài khoản ngân hàng ACB\nCông ty thực hiện chi trả lương qua tài khoản ACB vào ngày mùng 10 hằng tháng.\nAnh/Chị chưa có tài khoản ACB vui lòng nhanh chóng đến ngân hàng để mở tài khoản và báo lại thông tin cho Phòng HCNS.\nAnh/Chị đã có tài khoản ACB vui lòng cung cấp số tài khoản cho Phòng HCNS để cập nhật.\n2. Về tham gia bảo hiểm xã hội\n- Nhân viên full-time: tham gia bảo hiểm sau khi ký Hợp đồng chính thức 01 năm và đã hoàn tất đầy đủ hồ sơ theo yêu cầu.\n- Giáo viên: tham gia bảo hiểm sau khi nhận lớp và đã hoàn tất đầy đủ hồ sơ theo yêu cầu.\nNguyên tắc: Ký HĐ chính thức hoặc nhận lớp trước ngày 15 của tháng A → đóng bảo hiểm trong tháng A; sau ngày 15 → đóng từ tháng A+1.\n3. Về giảm trừ gia cảnh khi phát sinh thu nhập chịu thuế\nKhi nhân viên phát sinh thu nhập tại Công ty và thuộc đối tượng phải nộp thuế TNCN, nếu Anh/Chị đủ điều kiện giảm trừ gia cảnh, vui lòng chuẩn bị hồ sơ theo hướng dẫn của Phòng HCNS để được hỗ trợ đăng ký.\nLink hướng dẫn: https://drive.google.com/drive/folders/1OFL1JXd5C1DDAXHGr7qwuB8gzsp93OFC\nPhòng Hành chính – Nhân sự đề nghị toàn thể Anh/Chị phối hợp thực hiện đúng thời hạn để đảm bảo quyền lợi và công tác quản lý của Công ty. Nếu có thắc mắc vui lòng liên hệ em Phượng HC 0973852094 muộn nhất sau 2 ngày kể từ khi nhận thông báo.\nTrân trọng."
+  },
+  {
+   "id": "m03-thong-bao-di-muon-01122025",
+   "phase": "tong-quan",
+   "section": "s02-quy-dinh-phat-di-muon",
+   "course": "Toàn thể nhân viên",
+   "title": "Thông báo về việc đi làm muộn (từ 01/12/2025)",
+   "text": "📢 @All THÔNG BÁO VỀ VIỆC ĐI LÀM MUỘN TỪ 01/12/2025\nTừ tháng 12, đề nghị toàn bộ nhân sự chấp hành nghiêm túc giờ làm việc, hạn chế tối đa việc đi muộn.\nQuy định cụ thể:\n1. Trong tháng, hai (02) lần đi muộn đầu tiên được xem xét và chấp thuận là phép muộn nếu người lao động thực hiện đầy đủ các yêu cầu sau:\n+ Thông báo và xin phép quản lý trực tiếp;\n+ Được quản lý xét duyệt lý do;\n+ Điền đầy đủ biểu mẫu theo quy định.\nKể từ lần đi muộn thứ ba (03) trở đi trong tháng, người lao động sẽ bị xử lý theo quy định phạt tương ứng với số lần vi phạm, không áp dụng hình thức phép muộn.\n2. Nhân sự có thể kiểm tra camera ngẫu nhiên lúc 8h30 tại các vị trí làm việc:\n+ Yêu cầu nhân viên có mặt và ngồi đúng vị trí làm việc;\n+ Các trường hợp đi muộn, chạy lên chấm công rồi xuống cất xe, check camera random nếu bị phát hiện sẽ bị xử phạt theo quy định.\n3. Không ăn sáng trong giờ làm việc (từ 8h30 trở đi). Nếu vi phạm, xử phạt như lỗi đi muộn.\nĐề nghị toàn thể anh/chị nghiêm túc thực hiện để đảm bảo tác phong chuyên nghiệp và môi trường làm việc kỷ luật.\nTrân trọng,\nPhòng Hành chính - Nhân sự"
+  },
+  {
+   "id": "m04-thong-bao-ho-so-nhan-vien-moi",
+   "phase": "onboarding",
+   "section": "s07-ho-so-nhan-vien-can-nop",
+   "course": "Nhân viên mới",
+   "title": "Yêu cầu nộp hồ sơ nhân viên mới",
+   "text": "📋 HỒ SƠ NHÂN VIÊN MỚI CẦN NỘP\nDEADLINE: Nộp trong ngày đi nhận việc và hoàn thiện muộn nhất trong 01 tháng kể từ ngày nhận việc. Nếu không nộp sẽ treo lương tháng đó.\n🧑‍💼 NHÂN VIÊN FULL-TIME:\n1. Sổ hộ khẩu (bản sao công chứng) hoặc chụp VNeID in ra\n2. Thẻ CCCD (bản sao công chứng dưới 6 tháng)\n3. Sơ yếu lý lịch (bản sao công chứng dưới 6 tháng)\n4. Giấy khai sinh (bản sao công chứng dưới 6 tháng)\n5. Giấy khám sức khỏe (dưới 6 tháng)\n6. Bằng tốt nghiệp ĐH (bản sao công chứng dưới 6 tháng) — chưa có bằng nộp giấy CN tốt nghiệp tạm thời hoặc bảng điểm (công chứng dưới 6 tháng)\n7. Ảnh hồ sơ (3x4 hoặc 4x6)\n8. Sổ bảo hiểm bản sao (nếu đã từng đóng bảo hiểm)\n👩‍🏫 GIÁO VIÊN: như trên + bản photo chứng chỉ chuyên môn, mang bản gốc đến đối chiếu.\n🕐 NHÂN VIÊN PART-TIME: CCCD + Thẻ sinh viên + Sơ yếu lý lịch (công chứng dưới 6 tháng).\nMọi thắc mắc liên hệ Phòng HCNS — Ms Phượng 0973 852 094."
+  }
+ ],
+ "commonLinks": [
+  {
+   "name": "SEC – Cơ cấu tổ chức (sơ đồ đầy đủ)",
+   "url": "https://docs.google.com/spreadsheets/d/15skcIB-09inK5MDaXGS2gynR1bbOsx0Xhj4dP9lQP7o/edit?gid=1679933324"
+  },
+  {
+   "name": "Form xác nhận công (nhân viên văn phòng)",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeiTvqaxedHDgrey65pGlCvgXFumY3xYJW8nwJ3o0MVGS6hNg/viewform"
+  },
+  {
+   "name": "Form đăng ký làm vé xe",
+   "url": "https://docs.google.com/forms/d/1ZMulZsOUD9ElbsGYFJQZmVWJD-n2rQp7v9C_p24ixDo/preview"
+  },
+  {
+   "name": "Form đăng ký học tiếng Anh nội bộ",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSf5exKA56OfvTbyHXB05hUSN0wRoJWRP7AQsHiaVA7y6Rcpsg/viewform"
+  }
+ ]
+}
