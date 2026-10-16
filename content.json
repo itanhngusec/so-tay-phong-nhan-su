@@ -19,7 +19,7 @@
   "heroTitle": "Sơ đồ thông tin",
   "heroTitleAccent": "dành cho giáo viên",
   "logo": "assets/logo.jpg",
-  "updatedAt": "2026-10-16T11:01:30.989Z",
+  "updatedAt": "2026-10-16T11:04:21.198Z",
   "updatedBy": "Thành",
   "version": "1.0.0"
  },
@@ -753,18 +753,6 @@
    "title": "Mục mới TESST",
    "body": "- Nội dung mới",
    "links": []
-  },
-  {
-   "id": "s29-moi",
-   "phase": "before",
-   "title": "Mục mới1234",
-   "body": "- Nội dung mới12341234",
-   "links": [
-    {
-     "name": "1234",
-     "url": "12341234"
-    }
-   ]
   }
  ],
  "templates": [
